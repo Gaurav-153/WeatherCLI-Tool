@@ -1,0 +1,42 @@
+{
+  "london": {
+    "timestamp": 1747104980581,
+    "data": {
+      "temperature": 13.05,
+      "condition": "Clouds",
+      "wind": 0.89
+    }
+  },
+  "pune": {
+    "timestamp": 1747118860427,
+    "data": {
+      "temperature": 32.17,
+      "condition": "Clear",
+      "wind": 1.54
+    }
+  },
+  "mumbai": {
+    "timestamp": 1747105451885,
+    "data": {
+      "temperature": 29.77,
+      "condition": "Clear",
+      "wind": 1.96
+    }
+  },
+  "pimpri": {
+    "timestamp": 1747105492375,
+    "data": {
+      "temperature": 27.46,
+      "condition": "Clear",
+      "wind": 2.21
+    }
+  },
+  "hyderabad": {
+    "timestamp": 1747105518352,
+    "data": {
+      "temperature": 32.21,
+      "condition": "Clear",
+      "wind": 2.63
+    }
+  }
+}
