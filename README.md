@@ -13,7 +13,7 @@ A simple and efficient Command Line Interface (CLI) tool built with Node.js that
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/weather-cli-tool.git
+   git clone https://github.com/Gaurav-153/weather-cli-tool.git
    cd weather-cli-tool
 2. npm install
 3. Add api key to the .env file
